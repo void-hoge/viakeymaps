@@ -2,7 +2,7 @@
   "name": "Keychron Q9 Plus ANSI Knob",
   "vendorProductId": 875823508,
   "macros": [
-    "{KC_LSFT,KC_END}{KC_DEL}",
+    "{KC_LSFT,KC_END}{KC_LCTL,KC_C}{KC_BSPC}",
     "",
     "",
     "",
